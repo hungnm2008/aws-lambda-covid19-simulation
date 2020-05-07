@@ -120,7 +120,7 @@ Next, you can use AWS Serverless Application Repository to deploy ready to use A
 
 # Data Generation by Lambda Function and S3
 Based on the local data generation code and dataset desgin thinking, we generate data by AWS Lambda function and store data in S3. Finally, we make some configuration and share S3 dataset to every teammembers.
-![aws-lambda-covid19-simulation/gendata/Gendata1.PNG]
-![aws-lambda-covid19-simulation/gendata/Gendata2.PNG]
-![aws-lambda-covid19-simulation/gendata/Gendata3.PNG]
+![](aws-lambda-covid19-simulation/gendata/Gendata1.PNG)
+![](aws-lambda-covid19-simulation/gendata/Gendata2.PNG)
+![](aws-lambda-covid19-simulation/gendata/Gendata3.PNG)
 
