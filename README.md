@@ -118,9 +118,5 @@ See the [AWS SAM developer guide](https://docs.aws.amazon.com/serverless-applica
 
 Next, you can use AWS Serverless Application Repository to deploy ready to use Apps that go beyond hello world samples and learn how authors developed their applications: [AWS Serverless Application Repository main page](https://aws.amazon.com/serverless/serverlessrepo/)
 
-# Data Generation by Lambda Function and S3
-Based on the local data generation code and dataset desgin thinking, we generate data by AWS Lambda function and store data in S3. Finally, we make some configuration and share S3 dataset to every teammembers.
-![](gendata/Gendata.PNG)
-![](gendata/Gendata2.PNG)
-![](gendata/Gendata3.PNG)
+
 
